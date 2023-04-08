@@ -1,6 +1,10 @@
 # Aleksandra Kuleva
 
-Passionate Junior Data Analyst. I decided to move from management to data analysis in order to expand a decision-making tools. I use my knowledge, communicative skills and critical and systems thinking along with SQL, Python and other libraries, frameworks and tools. Confident in SQL, analyzing and visualizing data in Python, building analytical reports.
+I decided to change my focus from management to data analytics to expand my decision-making toolkit. In my work I use communication skills, critical and analytical thinking together with SQL, Python and other tools to find hidden patterns in data, identify influencing factors on business metrics and find points of growth.
+
+Able to read documentation and independently learn new libraries and data processing technologies.
+
+I am developing in the field of data analysis, improving my skills - I am trained in Python, SQL, data visualization tools.
 
 Contacts:
 
