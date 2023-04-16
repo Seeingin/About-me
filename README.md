@@ -6,7 +6,7 @@ Able to read documentation and independently learn new libraries and data proces
 
 I am developing in the field of data analysis, improving my skills - I am trained in Python, SQL, data visualization tools.
 
-Contacts:
+**Contacts:**
 
 Telegram: https://t.me/Seeingin
 
